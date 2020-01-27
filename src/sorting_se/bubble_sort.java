@@ -18,7 +18,7 @@ public class bubble_sort {
 		}
 		
 		for(int k=0;k<n;k++) {
-			System.out.println(arr[k]);
+			System.out.print(arr[k]+" ");
 		}
 		
 
