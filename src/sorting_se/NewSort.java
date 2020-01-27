@@ -19,8 +19,8 @@ public class NewSort {
 			
 		}
 		
-		for(int k=0;k<n;k++) {
-			System.out.println(arr[k]);
+		for(int m=0;m<n;m++) {
+			System.out.println(arr[m]);
 		}
 
 
